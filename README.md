@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# responsive-portfolio
 
-You can use the [editor on GitHub](https://github.com/vonventti/vonventti.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+In this video, I am going to show you how to build a Personal Portfolio or website that looks great on mobile, tablet and desktop (so in other words, we will make it responsive!). We will be doing this with HTML and CSS, with the tiniest bit of JavaScript. So if you don't know how to use Javascript, don't worry, you can still code along. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This video is perfect for those looking to learn/improve their CSS and HTML skills. Watch the full video [here](https://youtu.be/-D6oTPA4vXc)
 
-### Markdown
+At the end we deploy the site to a .com website so you can share it with your friends. Hostinger have kindly given a 10% discount to sign up to anyone who watches this video with packages starting from 99p a month.  To get 10% off on Hostinger use code ANIAKUBOW on this link here: https://www.hostinger.com/aniakubow
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Video content:
+* 00:00: Introduction
+* 03:52: Getting our .com domain
+* 05:43: File Setup
+* 09:18: Website layout in HTML
+* 15:41: Making a Nav bar
+* 20:31: Making a 'Hero' Section
+* 48:20: Making an 'About Me' Section
+* 55:52: Making a 'Projects' Section
+* 01:08:35: Using Anchor Links
+* 01:12:57: Using media query for tailored views on mobile, tablet and desktop
+* 01:14:50: Making a Hamburger drop-down menu
+* 01:23:55: Deploying our website onto the internet with SSL
 
-```markdown
-Syntax highlighted code block
+Other links:
+In this video I use Tabnine as my A.I autocompletion tool. You can download it for free here: http://bit.ly/tabnine-free
 
-# Header 1
-## Header 2
-### Header 3
+If you would like to buy me a coffee, well thank you very much that is mega kind! : https://www.buymeacoffee.com/aniakubow
 
-- Bulleted
-- List
+Sign up for weekly coding tips from my newsletter partnership: https://bit.ly/JS-tips
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vonventti/vonventti.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can also find me on:
+Twitter: https://twitter.com/ania_kubow
+Instagram: https://www.instagram.com/aniakubow
